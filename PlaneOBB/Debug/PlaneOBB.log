@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-planeobb-mastervs2019\planeobb\main.cpp(516): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  PlaneOBB.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6 secondHalf\physics-planeOBB-masterVS2019\PlaneOBB\Debug\PlaneOBB.exe
